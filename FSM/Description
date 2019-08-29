@@ -1,0 +1,10 @@
+FSM (Finite-State Machine)
+
+An Abstract Machine that can be in exactly one of a finite number of
+states at any given time. The FSM can change from one state to 
+another in response to some external inputs.
+
+Project: NZ Traffic Lights
+
+Develop a state machine based around the NZ Traffic Light. Write the 
+controller for a traffic light program.
