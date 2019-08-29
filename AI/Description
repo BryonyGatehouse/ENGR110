@@ -1,0 +1,5 @@
+AI (Artificial Intelligence)
+
+A program which uses Neural Networks to identify simple 8x8 black and white images
+that fit into eight categories. The program could be used by the vehicle designed 
+in AVC to instantly recognise sections of the line maze
