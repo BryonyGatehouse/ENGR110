@@ -26,4 +26,4 @@ Students who pass this course will be able to:
 1. [Finite State Machines](FSM)
 2. [Sustainable Energy Systems](Sustainability)
 3. [Artificial Intelligence](AI)
-4. [SCARA Robot Arm](SCARA Project)
+4. [SCARA Robot Arm](SCARA%20Project)
