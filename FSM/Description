@@ -1,10 +1,5 @@
-FSM (Finite-State Machine)
+# Finite-State Machine : NZ Traffic Lights
 
-An Abstract Machine that can be in exactly one of a finite number of
-states at any given time. The FSM can change from one state to 
-another in response to some external inputs.
+Create the a state machine and controller for a traffic light program. The machine can be in exactly one of a finite number of states at any given time, which changes in response to external inputs. 
 
-Project: NZ Traffic Lights
-
-Develop a state machine based around the NZ Traffic Light. Write the 
-controller for a traffic light program.
+Ensure the safety of the cars and pedestrians.
