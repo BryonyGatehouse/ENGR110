@@ -1,5 +1,5 @@
-SCARA (Selective Compliance Assembly Robot Arm) Arm Project
+# Selective Compliance Assembly Robot Arm
 
-Create software for a robotic arm to draw a given image
+Create a program that can automatically transfer an image from the computer to a drawing using a Robot Arm.
 
-Results were not spectacular (photos included)
+[Resulting images](ENGR110%20Pictures.pdf).
